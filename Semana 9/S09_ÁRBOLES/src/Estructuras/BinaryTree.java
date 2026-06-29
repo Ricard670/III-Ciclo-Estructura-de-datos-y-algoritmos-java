@@ -3,7 +3,6 @@ package Estructuras;
 public class BinaryTree {
 
     NodoTree root;
-
     BinaryTree() {
         root = null;
     }
